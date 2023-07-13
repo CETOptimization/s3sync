@@ -1,6 +1,6 @@
-module github.com/larrabee/s3sync
+module github.com/CETOptimization/s3sync
 
-go 1.18
+go 1.20
 
 require (
 	github.com/alexflint/go-arg v1.4.2
